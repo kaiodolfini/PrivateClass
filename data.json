@@ -1,3 +1,22 @@
 {
-    "teachers": []
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Kaio Dolfini",
+      "birth": 1597795200000,
+      "scholarity": "value1",
+      "classes": "Presencial",
+      "services": "Matemática",
+      "created_at": 1598290974876
+    },
+    {
+      "id": 2,
+      "name": "Kaio Dolfini",
+      "birth": 723513600000,
+      "scholarity": "value3",
+      "classes": "Presencial",
+      "services": "ingles",
+      "created_at": 1598292732285
+    }
+  ]
 }
